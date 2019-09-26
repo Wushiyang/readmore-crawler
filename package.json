@@ -1,0 +1,23 @@
+{
+  "name": "readmore-node",
+  "version": "1.0.0",
+  "description": "使用node的爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wushiyang/readmore-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wushiyang/readmore-crawler/issues"
+  },
+  "homepage": "https://github.com/Wushiyang/readmore-crawler#readme",
+  "dependencies": {
+
+  }
+}
